@@ -1,0 +1,6 @@
+C:\Users\kaviya\source\repos\Oop exercise\Inheritance\StackOfString\bin\Debug\StackOfString.exe.config
+C:\Users\kaviya\source\repos\Oop exercise\Inheritance\StackOfString\bin\Debug\StackOfString.exe
+C:\Users\kaviya\source\repos\Oop exercise\Inheritance\StackOfString\bin\Debug\StackOfString.pdb
+C:\Users\kaviya\source\repos\Oop exercise\Inheritance\StackOfString\obj\Debug\StackOfString.csproj.CoreCompileInputs.cache
+C:\Users\kaviya\source\repos\Oop exercise\Inheritance\StackOfString\obj\Debug\StackOfString.exe
+C:\Users\kaviya\source\repos\Oop exercise\Inheritance\StackOfString\obj\Debug\StackOfString.pdb

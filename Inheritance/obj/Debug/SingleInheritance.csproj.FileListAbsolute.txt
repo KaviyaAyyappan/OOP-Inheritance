@@ -1,0 +1,7 @@
+C:\Users\kaviya\source\repos\Oop exercise\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\kaviya\source\repos\Oop exercise\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\kaviya\source\repos\Oop exercise\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\kaviya\source\repos\Oop exercise\Inheritance\Inheritance\obj\Debug\SingleInheritance.csprojAssemblyReference.cache
+C:\Users\kaviya\source\repos\Oop exercise\Inheritance\Inheritance\obj\Debug\SingleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\kaviya\source\repos\Oop exercise\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\kaviya\source\repos\Oop exercise\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
